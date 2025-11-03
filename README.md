@@ -1,8 +1,10 @@
 # 📱 Tugas Pertemuan 6 - Pemrograman Mobile
 
 **Nama:** Revalina Fidiya Anugrah  
-**NIM:** H1D023011  
-**Shift Akhir:** D  
+**NIM:** H1D023011 
+**Shift KRS:** D
+**Shift Akhir:** B
+
 
 ---
 
